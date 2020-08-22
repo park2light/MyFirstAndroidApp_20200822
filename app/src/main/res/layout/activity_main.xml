@@ -10,14 +10,18 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="안녕하세요!"/>
+        android:text="안녕하세요!"
+        android:textSize="25sp"/>
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textColor="#ff0000"
         android:text="잘부탁드려요"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textStyle="bold"
         android:text="저는 박성현입니다"/>
 
 </LinearLayout>
