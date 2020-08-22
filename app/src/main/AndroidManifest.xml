@@ -2,6 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="kr.co.tjoeun.myfirstandroidapp_20200822">
 
+<!--    앱의 시각 정보 사항을 담아주는 xml 파일-->
+
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
